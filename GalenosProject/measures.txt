@@ -1,0 +1,58 @@
+Consult: c01
+Consult: c01
+Consult: c01
+Time: 9304 ms
+Memory: 201547384 bytes
+Consult: c01
+Time: 8508 ms
+Memory: 196511704 bytes
+Consult: c01
+Time: 8720 ms
+Memory: 174629088 bytes
+Consult: c01
+Time: 7736 ms
+Memory: 175893208 bytes
+Consult: c01
+Time: 7567 ms
+Memory: 195180568 bytes
+Consult: c01
+Time: 10309 ms
+Memory: 164303632 bytes
+Consult: c01
+Consult: c01
+Consult: c01
+Consult: c01
+Consult: c01
+Time: 8309 ms
+Memory: 197834168 bytes
+Consult: c01
+Time: 7893 ms
+Memory: 187094616 bytes
+Consult: c01
+Time: 7115 ms
+Memory: 193386568 bytes
+Consult: c01
+Time: 8458 ms
+Memory: 163847680 bytes
+Consult: c01
+Time: 7458 ms
+Memory: 152259176 bytes
+Consult: c01
+Time: 7099 ms
+Memory: 153610656 bytes
+Consult: c01
+Time: 6892 ms
+Memory: 171565496 bytes
+Consult: c01
+Time: 7161 ms
+Memory: 157384216 bytes
+Consult: c01
+Consult: c01
+Time: 7177 ms
+Memory: 171938320 bytes
+Consult: c01
+Consult: c01
+Consult: c01
+Consult: c01
+Time: 7646 ms
+Memory: 147581976 bytes
